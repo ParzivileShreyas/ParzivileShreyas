@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">An enthusiastic coder, Project lead, Stock Data Analyst</h3>
 
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParzivileShreyas&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parzivileshreyas&label=Profile%20views&color=0e75b6&style=flat" alt="parzivileshreyas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parzivileshreyas" alt="parzivileshreyas" /></a> </p>
