@@ -26,10 +26,7 @@
 <a href="https://www.hackerrank.com/sk1169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sk1169" height="30" width="40" /></a>
 <a href="https://discord.gg/parzivile.49#2158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="parzivile.49#2158" height="30" width="40" /></a>
 </p> 
-<div align="center">
-<a href="https://github.com/ParzivileShreyas" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
  
  
 <h3 align="left">Languages and Tools:</h3>
