@@ -37,5 +37,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParzivileShreyas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivileShreyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
