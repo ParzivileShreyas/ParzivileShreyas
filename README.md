@@ -22,6 +22,9 @@
 
 - 📫 How to reach me **parzivile121816@gmail.com**
 
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align = 'right' />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@lone_wolf4803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lone_wolf4803" height="30" width="40" /></a>
@@ -38,7 +41,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParzivileShreyas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivileShreyas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br>
 
 ### ✍️ Random Dev Quote
