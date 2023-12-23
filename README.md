@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Surveillance Camera Bot in smart building and sign language detection**
 
-- 🌱 I’m currently learning **C++ in College**
+- 🌱 I’m currently learning **Cloud Computing and Ethical Hacking**
 
-- 👯 I’m looking to collaborate on **innovative projects and hackathons**
+- 👯 I’m looking to collaborate on **innovative projects and research work**
 
-- 🤝 I’m looking for help with **robotics, coding, testing**
+- 🤝 I’m looking for help with **robotics, coding, testing, also people who can work with me**
 
-- 💬 Ask me about **ADOBE, Lightroom, Photography, Gaming**
+- 💬 Ask me about **ADOBE, Lightroom, Photography, Robotics, Data Analysis**
 
 - 📫 How to reach me **parzivile121816@gmail.com**
 
