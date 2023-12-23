@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ParzivileShreyas&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
-- 🔭 I’m currently working on **Surveillance Camera Bot in smart building**
+- 🔭 I’m currently working on **Surveillance Camera Bot in smart building and sign language detection**
 
 - 🌱 I’m currently learning **C++ in College**
 
